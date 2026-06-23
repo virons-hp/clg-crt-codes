@@ -1,12 +1,16 @@
 body{
-    background-color: rgb(255, 247, 188);
+    /* background-color: rgb(255, 247, 188); */
+    height: 100vh;
+    width: 100%;
     text-transform: uppercase;
     color: rgba(116, 15, 15, 0.895);
     text-align: center;
-  
+background-image: url("shades-peach-soft-orange-white-roses-flower-frame-background_41066-3986.avif");  
+background-size: cover;
+background-repeat: no-repeat;
 }
 h1{
-font-family: 'Courier New', Courier, monospace;
+font-family:cursive;
 }
 
 .img1{
@@ -22,6 +26,6 @@ font-family: 'Courier New', Courier, monospace;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 40px;
+    /* margin-top: 40px; */
 
 }
