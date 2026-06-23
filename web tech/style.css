@@ -1,9 +1,12 @@
 body{
     background-color: rgb(255, 247, 188);
+    text-transform: uppercase;
+    color: rgba(116, 15, 15, 0.895);
+    text-align: center;
   
 }
 h1{
-    color: blue;
+font-family: 'Courier New', Courier, monospace;
 }
 
 .img1{
